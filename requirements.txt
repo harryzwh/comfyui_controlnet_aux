@@ -25,3 +25,4 @@ scikit-learn
 matplotlib
 xformers
 submitit
+torchmetrics
