@@ -23,3 +23,5 @@ trimesh[easy]
 albumentations
 scikit-learn
 matplotlib
+xformers
+submitit
